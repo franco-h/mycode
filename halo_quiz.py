@@ -20,7 +20,7 @@ questions = {
                                                                          "options": ["An ascension to godhood", "The journey to the Ark", "A pilgrimage to specific planets", "A journey across the galaxy"]},
 
     "After creation, rampancy in Human Artificial Intelligence generally begins when?": {"answer": "Seven years into their lifespan",
-                                                                                         "options": ["Four years into their lifespan", "Six years into their lifespan", "Seven years into their life", "Five years into their lifespan"]},
+                                                                                         "options": ["Four years into their lifespan", "Six years into their lifespan", "Seven years into their lifespan", "Five years into their lifespan"]},
 
     "What weapon was used to kill Kat in Halo: Reach?": {"answer": "A Needle Rifle",
                                                          "options": ["A Needle Rifle", "A Brute Shot", "A Beam Rifle", "A Needler"]},
